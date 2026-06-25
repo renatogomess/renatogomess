@@ -15,8 +15,6 @@
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 🖥️ Experiência com suporte técnico e atendimento a usuários
-- 🐧 Estudando Linux, servidores e infraestrutura
-- 🌐 Conhecimentos em desenvolvimento web e APIs
 - 🛠️ Gosto de aprender por meio de projetos práticos
 - 📍 Recife, Pernambuco, Brasil
 
