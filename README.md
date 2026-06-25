@@ -27,6 +27,17 @@ Durante a criação de um servidor Minecraft com mods, desenvolvi conhecimentos 
 * Análise de logs e resolução de erros
 * Documentação técnica passo a passo
 
+## 📚 Conhecimentos
+
+- Configuração e administração básica de servidores Linux
+- Criação de servidores Minecraft com Fabric e mods
+- Gerenciamento de portas e acesso remoto
+- Documentação técnica com Markdown
+- Controle de versão com Git
+- Consumo e testes de APIs
+- Banco de dados SQL
+- Resolução de problemas por meio de logs
+
 ## 🚀 Projetos em destaque
 
 ### Minecraft Server Guide
