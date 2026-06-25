@@ -4,16 +4,48 @@ Formado em **Análise e Desenvolvimento de Sistemas**, com interesse em **Suport
 
 Tenho experiência com suporte técnico, diagnóstico de problemas e atendimento a usuários. Gosto de aprender por meio de projetos práticos e documentar as soluções encontradas.
 
-## 🛠️ Tecnologias e conhecimentos
+## 🛠️ Tecnologias e ferramentas
 
-* HTML, CSS e JavaScript
-* React e Node.js
-* SQL, JSON e APIs REST
-* Git, GitHub e Postman
-* Windows e Linux
-* Redes de computadores
-* GLPI e suporte técnico
-* Fundamentos de AWS Cloud
+### Infraestrutura e sistemas
+
+* Linux
+* Bash
+* GitHub Codespaces
+* Administração básica de servidores
+* Configuração de portas e acesso remoto
+
+### Versionamento e documentação
+
+* Git
+* GitHub
+* Markdown
+* Documentação técnica
+
+### Desenvolvimento e dados
+
+* HTML
+* CSS
+* JavaScript
+* Java
+* SQL
+* JSON
+* APIs REST
+* Postman
+
+### Cloud e suporte
+
+* AWS — em aprendizado
+* Suporte técnico
+* Diagnóstico de problemas
+* Análise de logs
+
+### Ferramentas utilizadas em projetos
+
+* Crafty Controller
+* Fabric Loader
+* Fabric API
+* Playit.gg
+
 
 ## 🖥️ Infraestrutura e servidores
 
