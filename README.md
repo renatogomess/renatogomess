@@ -80,13 +80,6 @@ Guia completo para criação, configuração e manutenção de um servidor Minec
 
 Website desenvolvido como projeto acadêmico para simular a presença digital de uma floricultura.
 
-## 📚 Atualmente estudando
-
-* AWS Cloud
-* Infraestrutura e redes
-* JavaScript e APIs
-
-
 ## 📫 Contato
 
 * [LinkedIn](https://www.linkedin.com/in/renato-gomes-developer/)
